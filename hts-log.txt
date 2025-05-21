@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 May 2025 17:15:06 at https://html.themehealer.com/careon/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themehealer.com/careon/index.html -O1 "C:\Users\dahur\Downloads\vee" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-brands-400.svg (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-light-300.eot (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-light-300.eot? (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-light-300.ttf (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-light-300.svg (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-regular-400.ttf (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-regular-400.svg (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-solid-900.eot (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-solid-900.eot? (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-solid-900.ttf (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/fonts/fa-solid-900.svg (from https://html.themehealer.com/careon/assets/css/font-awesome-all.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/css/owl.video.play.png (from https://html.themehealer.com/careon/assets/css/owl.carousel.min.css)
+17:33:16	Error: 	"Not Found" (404) at link https://html.themehealer.com/careon/assets/css/images/ui-icons_444444_256x240.png (from https://html.themehealer.com/careon/assets/css/timePicker.css)
+17:33:16	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.themehealer.com/careon/assets/images/team/team-3-1.jpg (from https://html.themehealer.com/careon/index3.html)
+17:33:16	Warning: 	Retry after error -4 (Connect Error) at link https://html.themehealer.com/careon/assets/images/resources/about-four-trusted-patient-img-3.jpg (from https://html.themehealer.com/careon/index4.html)
+17:33:19	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://html.themehealer.com/careon/assets/images/shapes/contact-two-bg-shape.png (from https://html.themehealer.com/careon/index4.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 24 seconds : 383 links scanned, 366 files written (18623874 bytes overall) [14248673 bytes received at 12906 bytes/sec], 5993813 bytes transferred using HTTP compression in 124 files, ratio 24%, 1.9 requests per connection
+(13 errors, 3 warnings, 0 messages)
